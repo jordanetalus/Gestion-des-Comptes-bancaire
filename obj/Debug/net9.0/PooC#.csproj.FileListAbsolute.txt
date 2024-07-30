@@ -1,0 +1,15 @@
+/home/jordane/Bureau/PooC#/bin/Debug/net9.0/PooC#
+/home/jordane/Bureau/PooC#/bin/Debug/net9.0/PooC#.deps.json
+/home/jordane/Bureau/PooC#/bin/Debug/net9.0/PooC#.runtimeconfig.json
+/home/jordane/Bureau/PooC#/bin/Debug/net9.0/PooC#.dll
+/home/jordane/Bureau/PooC#/bin/Debug/net9.0/PooC#.pdb
+/home/jordane/Bureau/PooC#/obj/Debug/net9.0/PooC#.GeneratedMSBuildEditorConfig.editorconfig
+/home/jordane/Bureau/PooC#/obj/Debug/net9.0/PooC#.AssemblyInfoInputs.cache
+/home/jordane/Bureau/PooC#/obj/Debug/net9.0/PooC#.AssemblyInfo.cs
+/home/jordane/Bureau/PooC#/obj/Debug/net9.0/PooC#.csproj.CoreCompileInputs.cache
+/home/jordane/Bureau/PooC#/obj/Debug/net9.0/PooC#.sourcelink.json
+/home/jordane/Bureau/PooC#/obj/Debug/net9.0/PooC#.dll
+/home/jordane/Bureau/PooC#/obj/Debug/net9.0/refint/PooC#.dll
+/home/jordane/Bureau/PooC#/obj/Debug/net9.0/PooC#.pdb
+/home/jordane/Bureau/PooC#/obj/Debug/net9.0/PooC#.genruntimeconfig.cache
+/home/jordane/Bureau/PooC#/obj/Debug/net9.0/ref/PooC#.dll
